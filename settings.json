@@ -2,7 +2,7 @@
   "name": "aramanafkbot",
   "bot-account": {
     "username": "aramanafkbot",
-    "password": "araman",
+    "password": "",
     "type": "offline"
   },
   "server": {
