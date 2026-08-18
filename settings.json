@@ -1,8 +1,8 @@
 {
   "name": "aramanafkbot",
   "bot-account": {
-    "username": "PerzaanLive",
-    "password": "",
+    "username": "aramanafkbot",
+    "password": "araman",
     "type": "offline"
   },
   "server": {
