@@ -1,5 +1,5 @@
 {
-  "name": "aramanafkbot",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "aramanafkbot",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "EmbersSMP-OpRz.aternos.me",
     "port": 61138,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
